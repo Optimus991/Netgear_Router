@@ -1,0 +1,6 @@
+router:
+  ip: "192.168.1.1"             # Replace with your Netgear router IP
+  username: "admin"             # Replace with actual username
+  password: "your_password"     # Replace with actual password
+  api_url: "http://192.168.1.1/api/status"  # Replace or remove if no API
+  snmp_community: "public"
